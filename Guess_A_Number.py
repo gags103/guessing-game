@@ -1,5 +1,6 @@
 import random
-
+# test comment
+# Comment 2
 for x in range(1):
 	answer = random.randint(1,21)
 
